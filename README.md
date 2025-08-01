@@ -156,16 +156,26 @@ project-root/
 ## 🖼️ Project Screenshots
 
 > 📸 *See actual screenshots in the repository:*
-- ![Interactive API docs (Swagger)](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/docs.jpg)
-- ![Login page](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/login.jpg)
-- ![Registration page](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/registration.jpg)
-- ![Empty dashboard view](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/dashboard.jpg)
-- ![Add note page](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/add_note.jpg)
-- ![Add checklist page](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/add_checklist.jpg)
-- ![View note with full features](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/view_note.jpg)
-- ![View checklist with full features](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/view_checklist.jpg)
-- ![Full dashboard view](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/dashboard_full.jpg)
-- ![Profile popup](https://github.com/wettigo/full-stack-fastapi-react-postgres/img/profile.jpg)
+#### Interactive API docs (Swagger)
+![Interactive API docs (Swagger)](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/docs.jpg?raw=true)
+#### Interactive API docs (Swagger)
+![Login page](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/login.jpg?raw=true)
+#### Registration page
+![Registration page](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/registration.jpg?raw=true)
+#### Empty dashboard view
+![Empty dashboard view](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/dashboard.jpg?raw=true)
+#### Add note page
+![Add note page](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/add_note.jpg?raw=true)
+#### Add checklist page
+![Add checklist page](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/add_checklist.jpg?raw=true)
+#### View note with full features
+![View note with full features](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/view_note.jpg?raw=true)
+#### View checklist with full features
+![View checklist with full features](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/view_checklist.jpg?raw=true)
+#### Full dashboard view
+![Full dashboard view](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/dashboard_full.jpg?raw=true)
+#### Profile popup
+![Profile popup](https://github.com/wettigo/full-stack-fastapi-react-postgres/blob/ad77297d4015af107ced6e86a750e134d354aef6/img/profile.jpg?raw=true)
 
 ## 🛠️ Installation and Launch
 
